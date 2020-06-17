@@ -13,7 +13,7 @@ const Header = () => {
                     About
                 </a>
             </div>
-        < /div>
+        </div>
     `;
     return view;
 };
